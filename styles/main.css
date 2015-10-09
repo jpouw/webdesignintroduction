@@ -37,3 +37,12 @@ ul.header {
     margin: 0;
     padding: 0;
 }
+
+li.header {
+    float: left;
+}
+
+a.header {
+    display: block;
+    width: 60px;
+}
