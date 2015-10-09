@@ -14,6 +14,18 @@ p.small{
   color: #000000;
   }
 
+#header{
+  
+}
+
+#sitemap{
+  float: left;
+}
+
+#main{
+  float:left;
+}
+
 /* 
 @font-face {
   font-family: starconflict
