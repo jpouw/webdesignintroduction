@@ -1,0 +1,15 @@
+p.large{
+  font-family: verdana;
+  font-size: 14pt;
+  color: #313131;
+  }
+p.normal{
+  font-family: verdana;
+  font-size: 12pt;
+  color: #000000;
+  }
+p.small{
+  font-family: verdana;
+  font-size: 10pt;
+  color: #000000;
+  }
