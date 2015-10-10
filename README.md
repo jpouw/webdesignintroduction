@@ -12,7 +12,7 @@
   * [ ] meekunnen doen aan het team
   * [ ] voorwaarden om mee te kunnendoen aan het team
 * [ ] css afronden
-  * [ ] Menu bar
+  * [x] Menu bar
   * [ ] Header bar
   * [ ] zijlijn
   * [ ] verschillende text types
