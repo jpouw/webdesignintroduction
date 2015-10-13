@@ -73,3 +73,31 @@ td.logobar3{width:60%;float: left;}
 td.zijlijn{width: 200px;}
 a.zijlijn{text-decoration: none;font-family: verdana;font-size: 15px;color:#000000;}
 a.zijlijn:visited{text-decoration: none;font-family: verdana;font-size: 15px;color:#000000;}
+
+/* HTML5 Layout code */
+header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px; 
+}
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
