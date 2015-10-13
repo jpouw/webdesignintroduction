@@ -44,7 +44,7 @@ nav {
     padding:5px 20px;
     border:1px solid #E28929;
     float:left;
-    text-decoration:bold;
+    text-decoration:none;
     }
   a.nav:visited{
     font-family:serif;
@@ -53,7 +53,7 @@ nav {
     padding:5px 20px;
     border:1px solid #E28929;
     float:left;
-    text-decoration:bold;
+    text-decoration:none;
     }
   a.nav:hover{
     background-color:#DE7F18;
@@ -63,7 +63,7 @@ nav {
     padding:5px 20px;
     border:1px solid #E28929;
     float:left;
-    text-decoration:bold;
+    text-decoration:none;
     }
 section {
     width:80%;
@@ -75,21 +75,24 @@ aside {
     clear:both;
     text-align:left;
     padding:5px;
-    width:30px;
+    width:100px;
     border:3px solid #000000;
     }
   a.aside{
     font-family:verdana;
     font-size:14pt;
     color:#000000;
+    text-decoration:none;
     }
   a.aside:visited{
     font-family:verdana;
     font-size:14pt;
     color:#000000;
+    text-decoration:none;
     }
   a.aside:hover{
     font-family:verdana;
     font-size:15pt;
     color:#000000;
+    text-decoration:none;
     }
