@@ -24,7 +24,7 @@ p.small{
 
 /* HTML5 TEST */
 header {
-  background-color:#F4D7C3;
+  background-color:#DDB98F;
   text-align:center;
   padding:5px; 
   }
@@ -66,12 +66,13 @@ nav {
     text-decoration:none;
     }
 section {
+    background-color:#F0DEB3;
     width:80%;
     float:right;
     padding:10px; 
     }
 aside {
-    background-color:#F4D7C3;
+    background-color:#DDB98F;
     clear:both;
     text-align:left;
     padding:5px;
